@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -50,9 +50,10 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
@@ -78,31 +79,30 @@
       <br>jQuery
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-      </td>
-      </td>
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
     <td align="center" width="96">
-      <a href="https://drive.google.com/file/d/1s2Zhy-I_CQHDhpOhVUfmQmWLpfu6Amiz/view?usp=sharing">
+      <!-- <a href="https://drive.google.com/file/d/1s2Zhy-I_CQHDhpOhVUfmQmWLpfu6Amiz/view?usp=sharing"> -->
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      </a>
+      <!-- </a> -->
       <br>Vue
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
@@ -119,5 +119,5 @@
 
 ### :fire: My Stats :
 ![devboss0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=devboss0924&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devboss0924&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devboss0924&layout=compact&theme=vision-friendly-dark)](https://github.com/devboss0924/github-readme-stats)
 [![devboss0924's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devboss0924&theme=dark&background=000000)](https://git.io/streak-stats)
