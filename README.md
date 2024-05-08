@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devboss0924&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Caesar0dev&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -118,6 +118,6 @@
 ---
 
 ### :fire: My Stats :
-![devboss0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=devboss0924&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devboss0924&layout=compact&theme=vision-friendly-dark)](https://github.com/devboss0924/github-readme-stats)
-[![devboss0924's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devboss0924&theme=dark&background=000000)](https://git.io/streak-stats)
+![Caesar0dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caesar0dev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesar0dev&layout=compact&theme=vision-friendly-dark)](https://github.com/Caesar0dev/github-readme-stats)
+[![Caesar0dev's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Caesar0dev&theme=dark&background=000000)](https://git.io/streak-stats)
